@@ -1,2 +1,2 @@
-# Mine-React-
+# Mine-ReactComponents
 this repository contains basic Reusable React Component. 
